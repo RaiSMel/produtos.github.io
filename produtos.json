@@ -1,0 +1,585 @@
+[
+    {
+        "id": 1,
+        "nome": "Kit Playground",
+        "imagem": "",
+        "largura": "2,00",
+        "comprimento": "2,00" ,
+        "altura": "1,00" ,
+        "precoIndividual": "120,00",
+        "precoCombo": "90,00"
+    },  
+    {
+        "id": 2,
+        "nome": "Escorregador",
+        "imagem": "",
+        "largura": "0,50",
+        "comprimento": "1,50" ,
+        "altura": "1,00" ,
+        "precoIndividual": "70,00",
+        "precoCombo": "50,00"
+    },
+    {
+        "id": 3,
+        "nome": "Balanço Duplo",
+        "imagem": "",
+        "largura": "1,50",
+        "comprimento": "2,00" ,
+        "altura": "1,80" ,
+        "precoIndividual": "160,00",
+        "precoCombo": "150,00"
+    },
+    {
+        "id": 4,
+        "nome": "Parquinho",
+        "imagem": "",
+        "largura": "3,00",
+        "comprimento": "3,00" ,
+        "altura": "1,80" ,
+        "precoIndividual": "240,00",
+        "precoCombo": "210,00"
+    },
+    {
+        "id": 5,
+        "nome": "Piscina de Bolinhas P",
+        "imagem": "",
+        "largura": "1,00",
+        "comprimento": "1,00" ,
+        "altura": "1,50" ,
+        "precoIndividual": "150,00",
+        "precoCombo": "110,00"
+    },
+    {
+        "id": 6,
+        "nome": "Piscina de Bolinhas M",
+        "imagem": "",
+        "largura": "1,50",
+        "comprimento": "1,50" ,
+        "altura": "1,80" ,
+        "precoIndividual": "160,00",
+        "precoCombo": "120,00"
+    },
+    {
+        "id": 7,
+        "nome": "Cama Elástica 1,45",
+        "imagem": "",
+        "largura": "1,45",
+        "comprimento": "1,45" ,
+        "altura": "1,80" ,
+        "precoIndividual": "150,00",
+        "precoCombo": "110,00"
+    },
+    {
+        "id": 8,
+        "nome": "Cama Elástica 1,86",
+        "imagem": "",
+        "largura": "1,86",
+        "comprimento": "1,86" ,
+        "altura": "1,80" ,
+        "precoIndividual": "170,00",
+        "precoCombo": "120,00"
+    },
+    {
+        "id": 9,
+        "nome": "Cama Elástica 2,44",
+        "imagem": "",
+        "largura": "2,44",
+        "comprimento": "2,44" ,
+        "altura": "2,00" ,
+        "precoIndividual": "190,00",
+        "precoCombo": "140,00"
+    },
+    {
+        "id": 10,
+        "nome": "Cama Elástica 3,05",
+        "imagem": "",
+        "largura": "3,05",
+        "comprimento": "3,05" ,
+        "altura": "2,00" ,
+        "precoIndividual": "210,00",
+        "precoCombo": "160,00"
+    },
+    {
+        "id": 11,
+        "nome": "Cama Elástica 3,66",
+        "imagem": "",
+        "largura": "3,66",
+        "comprimento": "3,66" ,
+        "altura": "2,10" ,
+        "precoIndividual": "230,00",
+        "precoCombo": "180,00"
+    },
+    {
+        "id": 12,
+        "nome": "Cama Elástica 4,30",
+        "imagem": "",
+        "largura": "4,30",
+        "comprimento": "4,30" ,
+        "altura": "2,20" ,
+        "precoIndividual": "250,00",
+        "precoCombo": "200,00"
+    },
+    {
+        "id": 13,
+        "nome": "Air Game Junior",
+        "imagem": "",
+        "largura": "0,75",
+        "comprimento": "1,43" ,
+        "altura": "0,70" ,
+        "precoIndividual": "190,00",
+        "precoCombo": "150,00"
+    },
+    {
+        "id": 14,
+        "nome": "Air Game Adulto",
+        "imagem": "",
+        "largura": "0,90",
+        "comprimento": "1,83" ,
+        "altura": "0,83" ,
+        "precoIndividual": "320,00",
+        "precoCombo": "290,00"
+    },
+    {
+        "id": 15,
+        "nome": "Pebolim Totó",
+        "imagem": "",
+        "largura": "0,86",
+        "comprimento": "1,38" ,
+        "altura": "0,86" ,
+        "precoIndividual": "220,00",
+        "precoCombo": "190,00"
+    },
+    {
+        "id": 16,
+        "nome": "Tamancobol",
+        "imagem": "",
+        "largura": "0,83",
+        "comprimento": "1,80" ,
+        "altura": "0,92" ,
+        "precoIndividual": "230,00",
+        "precoCombo": "210,00"
+    },
+    {
+        "id": 17,
+        "nome": "Mesa de bilhar",
+        "imagem": "" ,
+        "largura": "1,08",
+        "comprimento": "2,20" ,
+        "altura": "0,78" ,
+        "precoIndividual": "320,00",
+        "precoCombo": "290,00"
+    },
+    {
+        "id": 18,
+        "nome": "Mesa de Ping-Pong",
+        "imagem": "" ,
+        "largura": "1,52",
+        "comprimento": "2,74" ,
+        "altura": "0,76" ,
+        "precoIndividual": "260,00",
+        "precoCombo": "210,00"
+    },
+    {
+        "id": 19,
+        "nome": "Fut Mesa",
+        "imagem": "" ,
+        "largura": "1,20",
+        "comprimento": "1,85" ,
+        "altura": "0,80" ,
+        "precoIndividual": "310,00",
+        "precoCombo": "270,00"
+    },
+    {
+        "id": 20,
+        "nome": "Basquete Duplo",
+        "imagem": "" ,
+        "largura": "1,20",
+        "comprimento": "1,40" ,
+        "altura": "2,00" ,
+        "precoIndividual": "210,00",
+        "precoCombo": "180,00"
+    },
+    {
+        "id": 21,
+        "nome": "Karaokê",
+        "imagem": "" ,
+        "largura": "1,00",
+        "comprimento": "2,00" ,
+        "altura": "1,80" ,
+        "precoIndividual": "380,00",
+        "precoCombo": "350,00"
+    },
+    {
+        "id": 22,
+        "nome": "Fliperama Multijogos",
+        "imagem": "",
+        "largura": "0,61",
+        "comprimento": "0,45" ,
+        "altura": "0,61" ,
+        "precoIndividual": "190,00",
+        "precoCombo": "170,00"
+    },
+    {
+        "id": 23,
+        "nome": "Tombo Legal",
+        "imagem": "" ,
+        "largura": "1,20",
+        "comprimento": "1,50" ,
+        "altura": "1,80" ,
+        "precoIndividual": "320,00",
+        "precoCombo": "290,00"
+    },
+    {
+        "id": 24,
+        "nome": "Castelinho Pequeno",
+        "imagem": "" ,
+        "largura": "2,00",
+        "comprimento": "2,00" ,
+        "altura": "2,35" ,
+        "precoIndividual": "200,00",
+        "precoCombo": "150,00"
+    },
+    {
+        "id": 25,
+        "nome": "Castelinho Escorrega",
+        "imagem": "" ,
+        "largura": "2,00",
+        "comprimento": "3,20" ,
+        "altura": "2,35" ,
+        "precoIndividual": "230,00",
+        "precoCombo": "180,00"
+    },
+    {
+        "id": 26,
+        "nome": "Piscina de Bolinhas",
+        "imagem": "" ,
+        "largura": "2,20",
+        "comprimento": "2,20" ,
+        "altura": "2,00" ,
+        "precoIndividual": "200,00",
+        "precoCombo": "150,00"
+    },
+    {
+        "id": 27,
+        "nome": "Piscina Escorrega",
+        "imagem": "" ,
+        "largura": "2,20",
+        "comprimento": "3,50" ,
+        "altura": "2,00" ,
+        "precoIndividual": "240,00",
+        "precoCombo": "190,00"
+    },
+    {
+        "id": 28,
+        "nome": "Pula Piscina",
+        "imagem": "" ,
+        "largura": "2,20",
+        "comprimento": "4,40" ,
+        "altura": "2,35" ,
+        "precoIndividual": "330,00",
+        "precoCombo": "290,00"
+    },
+    {
+        "id": 29,
+        "nome": "Castelo Pula Pula",
+        "imagem": "" ,
+        "largura": "3,50",
+        "comprimento": "3,50" ,
+        "altura": "2,45" ,
+        "precoIndividual": "230,00",
+        "precoCombo": "180,00"
+    },
+    {
+        "id": 30,
+        "nome": "Pula Pula Escorrega",
+        "imagem": "" ,
+        "largura": "2,80",
+        "comprimento": "4,20" ,
+        "altura": "2,45" ,
+        "precoIndividual": "260,00",
+        "precoCombo": "230,00"
+    },
+    {
+        "id": 31,
+        "nome": "Tobogã c/ Pula Pula",
+        "imagem": "",
+        "largura": "2,50",
+        "comprimento": "5,40",
+        "altura": "2,40",
+        "precoIndividual": "260,00",
+        "precoCombo": "250,00"
+    },
+    {
+        "id": 32,
+        "nome": "Tobogã c/ Piscina",
+        "imagem": "",
+        "largura": "2,50",
+        "comprimento": "5,40",
+        "altura": "2,40",
+        "precoIndividual": "340,00",
+        "precoCombo": "320,00"
+    },
+    {
+        "id": 33,
+        "nome": "Tobogã Junior",
+        "imagem": "",
+        "largura": "2,50",
+        "comprimento": "3,30",
+        "altura": "2,40",
+        "precoIndividual": "230,00",
+        "precoCombo": "180,00"
+    },
+    {
+        "id": 34,
+        "nome": "Tobogã Escalada",
+        "imagem": "",
+        "largura": "2,50",
+        "comprimento": "3,30",
+        "altura": "2,75",
+        "precoIndividual": "240,00",
+        "precoCombo": "190,00"
+    },
+    {
+        "id": 35,
+        "nome": "Tobogã Premium",
+        "imagem": "",
+        "largura": "2,80",
+        "comprimento": "4,50",
+        "altura": "3,80",
+        "precoIndividual": "340,00",
+        "precoCombo": "300,00"
+    }
+    ,
+    {
+        "id": 36,
+        "nome": "Tobogã Jacaré",
+        "imagem": "",
+        "largura": "2,80",
+        "comprimento": "5,00",
+        "altura": "4,30",
+        "precoIndividual": "360,00",
+        "precoCombo": "330,00"
+    }
+    ,
+    {
+        "id": 37,
+        "nome": "Tobogã Leão",
+        "imagem": "",
+        "largura": "2,80",
+        "comprimento": "5,50",
+        "altura": "4,30",
+        "precoIndividual": "360,00",
+        "precoCombo": "330,00"
+    }
+    ,
+    {
+        "id": 38,
+        "nome": "Tobogã Duplo Piscina",
+        "imagem": "",
+        "largura": "4,20",
+        "comprimento": "6,00",
+        "altura": "5,00",
+        "precoIndividual": "550,00",
+        "precoCombo": "520,00"
+    }
+    ,
+    {
+        "id": 39,
+        "nome": "Chute ao Gol",
+        "imagem": "",
+        "largura": "3,20",
+        "comprimento": "3,50",
+        "altura": "2,50",
+        "precoIndividual": "240,00",
+        "precoCombo": "200,00"
+    }
+    ,
+    {
+        "id": 40,
+        "nome": "Basquete Inflável",
+        "imagem": "",
+        "largura": "2,80",
+        "comprimento": "3,50",
+        "altura": "3,00",
+        "precoIndividual": "230,00",
+        "precoCombo": "200,00"
+    }
+    ,
+    {
+        "id": 41,
+        "nome": "Escalada Inflável",
+        "imagem": "",
+        "largura": "5,00",
+        "comprimento": "5,00",
+        "altura": "3,00",
+        "precoIndividual": "250,00",
+        "precoCombo": "220,00"
+    }
+    ,
+    {
+        "id": 42,
+        "nome": "Kiddle Play",
+        "imagem": "",
+        "largura": "5,50",
+        "comprimento": "5,50",
+        "altura": "2,00",
+        "precoIndividual": "320,00",
+        "precoCombo": "290,00"
+    }
+    ,
+    {
+        "id": 43,
+        "nome": "Canhão de Espuma",
+        "imagem": "",
+        "largura": "2,00",
+        "comprimento": "2,00",
+        "altura": "2,00",
+        "precoIndividual": "540,00",
+        "precoCombo": "490,00"
+    }
+    ,
+    {
+        "id": 44,
+        "nome": "Futebol de Sabão 3,5x6",
+        "imagem": "",
+        "largura": "3,50",
+        "comprimento": "6,00",
+        "altura": "3,50",
+        "precoIndividual": "420,00",
+        "precoCombo": "390,00"
+    }
+    ,
+    {
+        "id": 45,
+        "nome": "Futebol de Sabão 4x8",
+        "imagem": "",
+        "largura": "4,00",
+        "comprimento": "8,00",
+        "altura": "3,50",
+        "precoIndividual": "490,00",
+        "precoCombo": "460,00"
+    }
+    ,{
+        "id": 46,
+        "nome": "Futebol de Sabão 5x10",
+        "imagem": "",
+        "largura": "5,00",
+        "comprimento": "10,00",
+        "altura": "3,50",
+        "precoIndividual": "590,00",
+        "precoCombo": "570,00"
+    }
+    ,{
+        "id": 47,
+        "nome": "Futebol de Sabão 6x12",
+        "imagem": "",
+        "largura": "6,00",
+        "comprimento": "12,00",
+        "altura": "3,50",
+        "precoIndividual": "720,00",
+        "precoCombo": "690,00"
+    }
+    ,{
+        "id": 48,
+        "nome": "Bolão Inflável",
+        "imagem": "",
+        "largura": "1,00",
+        "comprimento": "1,00",
+        "altura": "1,00",
+        "precoIndividual": "100,00",
+        "precoCombo": "100,00"
+    }
+    ,{
+        "id": 49,
+        "nome": "Guerra de Cotonetes",
+        "imagem": "",
+        "largura": "5,00",
+        "comprimento": "5,00",
+        "altura": "2,50",
+        "precoIndividual": "350,00",
+        "precoCombo": "330,00"
+    }
+    ,{
+        "id": 50,
+        "nome": "Baby Bull",
+        "imagem": "",
+        "largura": "3,00",
+        "comprimento": "3,00",
+        "altura": "2,50",
+        "precoIndividual": "470,00",
+        "precoCombo": "450,00"
+    }
+    ,{
+        "id": 51,
+        "nome": "Touro Mecânico",
+        "imagem": "",
+        "largura": "4,20",
+        "comprimento": "5,00",
+        "altura": "3,00",
+        "precoIndividual": "1000,00",
+        "precoCombo": "980,00"
+    }
+    ,{
+        "id": 52,
+        "nome": "Giro Radical Jump",
+        "imagem": "",
+        "largura": "6,00",
+        "comprimento": "6,00",
+        "altura": "2,50",
+        "precoIndividual": "580,00",
+        "precoCombo": "550,00"
+    }
+    ,{
+        "id": 53,
+        "nome": "Toboágua Júnior",
+        "imagem": "",
+        "largura": "3,00",
+        "comprimento": "4,00",
+        "altura": "3,50",
+        "precoIndividual": "370,00",
+        "precoCombo": "350,00"
+    }
+    ,{
+        "id": 54,
+        "nome": "Toboágua Premium",
+        "imagem": "",
+        "largura": "3,00",
+        "comprimento": "6,00",
+        "altura": "4,20",
+        "precoIndividual": "470,00",
+        "precoCombo": "450,00"
+    }
+    ,
+    {
+        "id": 55,
+        "nome": "Toboágua Long",
+        "imagem": "",
+        "largura": "3,00",
+        "comprimento": "9,00",
+        "altura": "4,20",
+        "precoIndividual": "490,00",
+        "precoCombo": "470,00"
+    }
+    ,
+    {
+        "id": 56,
+        "nome": "Premium Splash",
+        "imagem": "",
+        "largura": "2,80",
+        "comprimento": "6,00",
+        "altura": "3,80",
+        "precoIndividual": "350,00",
+        "precoCombo": "330,00"
+    }
+    ,{
+        "id": 57,
+        "nome": "Radical Slide 8 Metros",
+        "imagem": "",
+        "largura": "3,00",
+        "comprimento": "8,00",
+        "altura": "2,90",
+        "precoIndividual": "350,00",
+        "precoCombo": "330,00"
+    }
+
+]
