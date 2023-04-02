@@ -2,7 +2,6 @@
     {
         "id": 1,
         "nome": "Kit Playground",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/1.png",
         "largura": "2,00",
         "comprimento": "2,00" ,
         "altura": "1,00" ,
@@ -12,7 +11,6 @@
     {
         "id": 2,
         "nome": "Escorregador",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/2.png",
         "largura": "0,50",
         "comprimento": "1,50" ,
         "altura": "1,00" ,
@@ -22,7 +20,6 @@
     {
         "id": 3,
         "nome": "Balanço Duplo",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/3.png",
         "largura": "1,50",
         "comprimento": "2,00" ,
         "altura": "1,80" ,
@@ -32,7 +29,6 @@
     {
         "id": 4,
         "nome": "Parquinho",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/4.png",
         "largura": "3,00",
         "comprimento": "3,00" ,
         "altura": "1,80" ,
@@ -42,7 +38,6 @@
     {
         "id": 5,
         "nome": "Piscina de Bolinhas P",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/5.png",
         "largura": "1,00",
         "comprimento": "1,00" ,
         "altura": "1,50" ,
@@ -52,7 +47,6 @@
     {
         "id": 6,
         "nome": "Piscina de Bolinhas M",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/6.png",
         "largura": "1,50",
         "comprimento": "1,50" ,
         "altura": "1,80" ,
@@ -62,7 +56,6 @@
     {
         "id": 7,
         "nome": "Cama Elástica 1,45",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/7.png",
         "largura": "1,45",
         "comprimento": "1,45" ,
         "altura": "1,80" ,
@@ -72,7 +65,6 @@
     {
         "id": 8,
         "nome": "Cama Elástica 1,86",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/8.png",
         "largura": "1,86",
         "comprimento": "1,86" ,
         "altura": "1,80" ,
@@ -82,7 +74,6 @@
     {
         "id": 9,
         "nome": "Cama Elástica 2,44",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/9.png",
         "largura": "2,44",
         "comprimento": "2,44" ,
         "altura": "2,00" ,
@@ -92,7 +83,6 @@
     {
         "id": 10,
         "nome": "Cama Elástica 3,05",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/10.png",
         "largura": "3,05",
         "comprimento": "3,05" ,
         "altura": "2,00" ,
@@ -102,7 +92,6 @@
     {
         "id": 11,
         "nome": "Cama Elástica 3,66",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/11.png",
         "largura": "3,66",
         "comprimento": "3,66" ,
         "altura": "2,10" ,
@@ -112,7 +101,6 @@
     {
         "id": 12,
         "nome": "Cama Elástica 4,30",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/12.png",
         "largura": "4,30",
         "comprimento": "4,30" ,
         "altura": "2,20" ,
@@ -122,7 +110,6 @@
     {
         "id": 13,
         "nome": "Air Game Junior",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/13.png",
         "largura": "0,75",
         "comprimento": "1,43" ,
         "altura": "0,70" ,
@@ -132,7 +119,6 @@
     {
         "id": 14,
         "nome": "Air Game Adulto",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/14.png",
         "largura": "0,90",
         "comprimento": "1,83" ,
         "altura": "0,83" ,
@@ -142,7 +128,6 @@
     {
         "id": 15,
         "nome": "Pebolim Totó",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/15.png",
         "largura": "0,86",
         "comprimento": "1,38" ,
         "altura": "0,86" ,
@@ -152,7 +137,6 @@
     {
         "id": 16,
         "nome": "Tamancobol",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/16.png",
         "largura": "0,83",
         "comprimento": "1,80" ,
         "altura": "0,92" ,
@@ -162,7 +146,6 @@
     {
         "id": 17,
         "nome": "Mesa de bilhar",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/17.png" ,
         "largura": "1,08",
         "comprimento": "2,20" ,
         "altura": "0,78" ,
@@ -172,7 +155,6 @@
     {
         "id": 18,
         "nome": "Mesa de Ping-Pong",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/18.png" ,
         "largura": "1,52",
         "comprimento": "2,74" ,
         "altura": "0,76" ,
@@ -182,7 +164,6 @@
     {
         "id": 19,
         "nome": "Fut Mesa",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/19.png" ,
         "largura": "1,20",
         "comprimento": "1,85" ,
         "altura": "0,80" ,
@@ -192,7 +173,6 @@
     {
         "id": 20,
         "nome": "Basquete Duplo",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/20.png" ,
         "largura": "1,20",
         "comprimento": "1,40" ,
         "altura": "2,00" ,
@@ -202,7 +182,6 @@
     {
         "id": 21,
         "nome": "Karaokê",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/21.png" ,
         "largura": "1,00",
         "comprimento": "2,00" ,
         "altura": "1,80" ,
@@ -212,7 +191,6 @@
     {
         "id": 22,
         "nome": "Fliperama Multijogos",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/22.png",
         "largura": "0,61",
         "comprimento": "0,45" ,
         "altura": "0,61" ,
@@ -222,7 +200,6 @@
     {
         "id": 23,
         "nome": "Tombo Legal",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/23.png" ,
         "largura": "1,20",
         "comprimento": "1,50" ,
         "altura": "1,80" ,
@@ -232,7 +209,6 @@
     {
         "id": 24,
         "nome": "Castelinho Pequeno",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/24.png" ,
         "largura": "2,00",
         "comprimento": "2,00" ,
         "altura": "2,35" ,
@@ -242,7 +218,6 @@
     {
         "id": 25,
         "nome": "Castelinho Escorrega",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/25.png" ,
         "largura": "2,00",
         "comprimento": "3,20" ,
         "altura": "2,35" ,
@@ -252,7 +227,6 @@
     {
         "id": 26,
         "nome": "Piscina de Bolinhas",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/26.png" ,
         "largura": "2,20",
         "comprimento": "2,20" ,
         "altura": "2,00" ,
@@ -262,7 +236,6 @@
     {
         "id": 27,
         "nome": "Piscina Escorrega",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/27.png" ,
         "largura": "2,20",
         "comprimento": "3,50" ,
         "altura": "2,00" ,
@@ -272,7 +245,6 @@
     {
         "id": 28,
         "nome": "Pula Piscina",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/28.png" ,
         "largura": "2,20",
         "comprimento": "4,40" ,
         "altura": "2,35" ,
@@ -282,7 +254,6 @@
     {
         "id": 29,
         "nome": "Castelo Pula Pula",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/29.png" ,
         "largura": "3,50",
         "comprimento": "3,50" ,
         "altura": "2,45" ,
@@ -292,7 +263,6 @@
     {
         "id": 30,
         "nome": "Pula Pula Escorrega",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/30.png" ,
         "largura": "2,80",
         "comprimento": "4,20" ,
         "altura": "2,45" ,
@@ -302,7 +272,6 @@
     {
         "id": 31,
         "nome": "Tobogã c/ Pula Pula",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/31.png",
         "largura": "2,50",
         "comprimento": "5,40",
         "altura": "2,40",
@@ -312,7 +281,6 @@
     {
         "id": 32,
         "nome": "Tobogã c/ Piscina",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/32.png",
         "largura": "2,50",
         "comprimento": "5,40",
         "altura": "2,40",
@@ -322,7 +290,6 @@
     {
         "id": 33,
         "nome": "Tobogã Junior",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/33.png",
         "largura": "2,50",
         "comprimento": "3,30",
         "altura": "2,40",
@@ -332,7 +299,6 @@
     {
         "id": 34,
         "nome": "Tobogã Escalada",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/34.png",
         "largura": "2,50",
         "comprimento": "3,30",
         "altura": "2,75",
@@ -342,7 +308,6 @@
     {
         "id": 35,
         "nome": "Tobogã Premium",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/35.png",
         "largura": "2,80",
         "comprimento": "4,50",
         "altura": "3,80",
@@ -353,7 +318,6 @@
     {
         "id": 36.5,
         "nome": "Tigrão",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/36.5.jpg",
         "largura": "2,80",
         "comprimento": "4,50",
         "altura": "2,00",
@@ -364,7 +328,6 @@
     {
         "id": 36,
         "nome": "Tobogã Jacaré",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/36.jpg",
         "largura": "2,80",
         "comprimento": "5,00",
         "altura": "4,30",
@@ -375,7 +338,6 @@
     {
         "id": 37,
         "nome": "Tobogã Leão",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/37.png",
         "largura": "2,80",
         "comprimento": "5,50",
         "altura": "4,30",
@@ -386,7 +348,6 @@
     {
         "id": 38,
         "nome": "Tobogã Duplo Piscina",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/38.png",
         "largura": "4,20",
         "comprimento": "6,00",
         "altura": "5,00",
@@ -397,7 +358,6 @@
     {
         "id": 39,
         "nome": "Chute ao Gol",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/39.png",
         "largura": "3,20",
         "comprimento": "3,50",
         "altura": "2,50",
@@ -408,7 +368,6 @@
     {
         "id": 40,
         "nome": "Basquete Inflável",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/40.png",
         "largura": "2,80",
         "comprimento": "3,50",
         "altura": "3,00",
@@ -419,7 +378,6 @@
     {
         "id": 41,
         "nome": "Escalada Inflável",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/41.png",
         "largura": "5,00",
         "comprimento": "5,00",
         "altura": "3,00",
@@ -430,7 +388,6 @@
     {
         "id": 42,
         "nome": "Kiddle Play",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/42.png",
         "largura": "5,50",
         "comprimento": "5,50",
         "altura": "2,00",
@@ -441,7 +398,6 @@
     {
         "id": 43,
         "nome": "Canhão de Espuma",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/43.png",
         "largura": "2,00",
         "comprimento": "2,00",
         "altura": "2,00",
@@ -452,7 +408,6 @@
     {
         "id": 44,
         "nome": "Futebol de Sabão 3,5x6",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/44.png",
         "largura": "3,50",
         "comprimento": "6,00",
         "altura": "3,50",
@@ -463,7 +418,6 @@
     {
         "id": 45,
         "nome": "Futebol de Sabão 4x8",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/45.png",
         "largura": "4,00",
         "comprimento": "8,00",
         "altura": "3,50",
@@ -473,7 +427,6 @@
     ,{
         "id": 46,
         "nome": "Futebol de Sabão 5x10",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/46.png",
         "largura": "5,00",
         "comprimento": "10,00",
         "altura": "3,50",
@@ -483,7 +436,6 @@
     ,{
         "id": 47,
         "nome": "Futebol de Sabão 6x12",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/47.png",
         "largura": "6,00",
         "comprimento": "12,00",
         "altura": "3,50",
@@ -493,7 +445,6 @@
     ,{
         "id": 48,
         "nome": "Bolão Inflável",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/48.png",
         "largura": "1,00",
         "comprimento": "1,00",
         "altura": "1,00",
@@ -503,7 +454,6 @@
     ,{
         "id": 49,
         "nome": "Guerra de Cotonetes",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/49.png",
         "largura": "5,00",
         "comprimento": "5,00",
         "altura": "2,50",
@@ -513,7 +463,6 @@
     ,{
         "id": 50,
         "nome": "Baby Bull",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/50.png",
         "largura": "3,00",
         "comprimento": "3,00",
         "altura": "2,50",
@@ -523,7 +472,6 @@
     ,{
         "id": 51,
         "nome": "Touro Mecânico",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/51.png",
         "largura": "4,20",
         "comprimento": "5,00",
         "altura": "3,00",
@@ -533,7 +481,6 @@
     ,{
         "id": 51.5,
         "nome": "Touro Mecânico Rodeio",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/51.5.png",
         "largura": "4,20",
         "comprimento": "5,00",
         "altura": "3,00",
@@ -543,7 +490,6 @@
     ,{
         "id": 52,
         "nome": "Giro Radical Jump",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/52.png",
         "largura": "6,00",
         "comprimento": "6,00",
         "altura": "2,50",
@@ -553,7 +499,6 @@
     ,{
         "id": 53,
         "nome": "Toboágua Júnior",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/53.png",
         "largura": "3,00",
         "comprimento": "4,00",
         "altura": "3,50",
@@ -563,7 +508,6 @@
     ,{
         "id": 54,
         "nome": "Toboágua Premium",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/54.png",
         "largura": "3,00",
         "comprimento": "6,00",
         "altura": "4,20",
@@ -574,7 +518,6 @@
     {
         "id": 55,
         "nome": "Toboágua Long",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/55.png",
         "largura": "3,00",
         "comprimento": "9,00",
         "altura": "4,20",
@@ -585,7 +528,6 @@
     {
         "id": 56,
         "nome": "Premium Splash",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/56.png",
         "largura": "2,80",
         "comprimento": "6,00",
         "altura": "3,80",
@@ -595,7 +537,6 @@
     ,{
         "id": 57,
         "nome": "Radical Slide 8 Metros",
-        "imagem": "https://raw.githubusercontent.com/RaiSMel/produtos.github.io/main/imagens/57.png",
         "largura": "3,00",
         "comprimento": "8,00",
         "altura": "2,90",
