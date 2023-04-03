@@ -2,6 +2,8 @@
 
 <h2>Produtos para criação através de requisição</h2>
 
+<h3>produtos.json</h3>
+
 O pacote json retorna um string com o id, nome, dimensões e preços
 
 <h3>Imagens</h3>
