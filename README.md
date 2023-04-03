@@ -1,4 +1,4 @@
-# produtos.github.io
+# produtos para locação de brinquedos
 
 <h2>Produtos para criação através de requisição</h2>
 
