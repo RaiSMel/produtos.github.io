@@ -4,7 +4,7 @@
 
 <h3>produtos.json</h3>
 
-O pacote json retorna um string com o id, nome, dimensões e preços
+O pacote json retorna um string com o id, nome, dimensões e preços de todos os brinquedos disponiveis para locação
 
 <h3>Imagens</h3>
 
