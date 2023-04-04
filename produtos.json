@@ -6,7 +6,8 @@
         "comprimento": "2,00" ,
         "altura": "1,00" ,
         "precoIndividual": "120,00",
-        "precoCombo": "90,00"
+        "precoCombo": "90,00",
+        "descricao": ["destaque", "infantil"]
     },  
     {
         "id": 2,
@@ -15,7 +16,8 @@
         "comprimento": "1,50" ,
         "altura": "1,00" ,
         "precoIndividual": "70,00",
-        "precoCombo": "50,00"
+        "precoCombo": "50,00",
+        "descricao": ["destaque", "infantil"]
     },
     {
         "id": 3,
@@ -24,7 +26,8 @@
         "comprimento": "2,00" ,
         "altura": "1,80" ,
         "precoIndividual": "160,00",
-        "precoCombo": "150,00"
+        "precoCombo": "150,00",
+        "descricao": ["destaque", "infantil"]
     },
     {
         "id": 4,
